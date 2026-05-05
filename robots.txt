@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kurumsalfikir.github.io/oto-cam-tamiri/sitemap.xml
